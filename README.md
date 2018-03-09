@@ -9,7 +9,7 @@ Over the course of an 8 weeks design-driven sprint - inspired by the Google Spri
 REMODEL is facilitated by Danish Design Centre, a publicly funded non-profit agency which specializes in exploring new technology currents through design. REMODEL is furthermore supported by an expert panel of open source experts, practitioners and professional scholars: http://danskdesigncenter.dk/en/remodel-expert-panel.
 
 ## Which part of REMODEL is this?
-This is Phase 1 out of 7. To get an overview all phases, go to the main repository: https://github.com/RE-MODEL.
+This is Phase 4 out of 7. To get an overview all phases, go to the main repository: https://github.com/RE-MODEL.
 
 ## How can I use it?
 All materials are licensed under a Creative Commons BY-SA, which means that you are free to download, reuse, rework, sell or otherwise freely exploit these materials, also for commercial purposes, as long as you mention the original creator and use the same license on your derivative work. In fact, we encourage you to use this work in which ever way you want. Make it better!
